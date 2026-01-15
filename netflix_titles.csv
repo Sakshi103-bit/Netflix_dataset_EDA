@@ -1,0 +1,6 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,United States,1-Sep-20,2010,PG-13,148 min,"Sci-Fi, Thriller",A thief who steals corporate secrets through dream-sharing technology.
+s2,TV Show,Stranger Things,,Millie Bobby Brown,United States,15-Jul-16,2016,TV-14,4 Seasons,"Drama, Sci-Fi",A group of kids uncover supernatural mysteries.
+s3,Movie,The Dark Knight,Christopher Nolan,Christian Bale,United States,1-Jan-20,2008,PG-13,152 min,"Action, Drama",Batman faces the Joker in Gotham City.
+s4,TV Show,Money Heist,,Úrsula Corberó,Spain,20-Dec-17,2017,TV-MA,5 Seasons,"Crime, Drama",A criminal mastermind plans a heist on the Royal Mint of Spain.
+s5,Movie,Interstellar,Christopher Nolan,Matthew McConaughey,United States,10-Mar-21,2014,PG-13,169 min,"Sci-Fi, Drama",A team travels through a wormhole in space.
